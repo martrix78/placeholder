@@ -1,0 +1,23 @@
+{
+  "name": "placeholder",
+  "main": "placeholder.js",
+  "authors": [
+    "martrix <andrew.russkin@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "placeholder"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
